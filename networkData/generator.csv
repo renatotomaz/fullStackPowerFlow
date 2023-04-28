@@ -1,0 +1,10 @@
+name;bus;p_mw;vm_pu;sn_mva;min_q_mvar;max_q_mvar;scaling;slack;in_service;slack_weight;type;controllable;max_p_mw;min_p_mw
+Gen_29;29;250.0;1.0499;NaN;140.0;400.0;1.0;False;True;0.0;None;True;1040.0;0.0
+Gen_31;31;650.0;0.9841;NaN;150.0;300.0;1.0;False;True;0.0;None;True;725.0;0.0
+Gen_32;32;632.0;0.9972;NaN;0.0;250.0;1.0;False;True;0.0;None;True;652.0;0.0
+Gen_33;33;508.0;1.0123;NaN;0.0;167.0;1.0;False;True;0.0;None;True;508.0;0.0
+Gen_34;34;650.0;1.0494;NaN;-100.0;300.0;1.0;False;True;0.0;None;True;687.0;0.0
+Gen_35;35;560.0;1.0636;NaN;0.0;240.0;1.0;False;True;0.0;None;True;580.0;0.0
+Gen_36;36;540.0;1.0275;NaN;0.0;250.0;1.0;False;True;0.0;None;True;564.0;0.0
+Gen_37;37;830.0;1.0265;NaN;-150.0;300.0;1.0;False;True;0.0;None;True;865.0;0.0
+Gen_38;38;1000.0;1.03;NaN;-100.0;300.0;1.0;False;True;0.0;None;True;1100.0;0.0
