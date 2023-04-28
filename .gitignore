@@ -127,7 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # Other folders
 /.old 
 /.vscode
+=======
+>>>>>>> 44b58be7c1b0d1b108192c316e284033f9f55aa9
